@@ -688,10 +688,10 @@
   {
     "Project": "ISOLDE",
     "Name": "HLS-based Post-Quantum Cryptographic Accelerator (HLS-PQC)",
-    "URL": "",
+    "URL": "https://github.com/bsc-loca/PQC-Crystals-HLS-Accelerators",
     "License": "Solderpad",
     "Status": "",
-    "Description": "TBD",
+    "Description": "Implements a PQC accelerator for FPGA-based SoCs using HLS. It supports CRYSTALS-Kyber (ML-KEM) and CRYSTALS-Dilithium (ML-DSA). Both schemes are NIST standards for post-quantum cryptography.",
     "WI": [
       "ID 3.5.01"
     ],
